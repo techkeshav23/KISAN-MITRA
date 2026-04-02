@@ -49,10 +49,10 @@ const HomePage = () => {
         <div className="relative w-full px-4 sm:px-6 lg:px-8 py-20">
           <div className="text-center max-w-6xl mx-auto">
             <h1 className="text-5xl md:text-7xl font-bold mb-8 drop-shadow-lg">
-              Welcome to Kisan Saathi
+              Welcome to KISAN MITRA
             </h1>
             <p className="text-xl md:text-2xl mb-12 text-green-100 drop-shadow-md max-w-4xl mx-auto">
-              Har Kisan ka Digital Saathi
+              Har Kisan ka Digital Mitra
             </p>
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
               {user ? (
@@ -120,7 +120,7 @@ const HomePage = () => {
           {/* Features Section */}
           <div className="section-gradient rounded-3xl p-12 mb-16">
             <h2 className="text-4xl font-bold text-gray-800 mb-12 text-center">
-              Why Choose Kisan Saathi?
+              Why Choose KISAN MITRA?
             </h2>
 
             <div className="grid grid-cols-1 md:grid-cols-3 gap-12">

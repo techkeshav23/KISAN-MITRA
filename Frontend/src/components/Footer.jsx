@@ -11,14 +11,14 @@ const Footer = () => {
                 <img
                   src={logo}
                   className=" w-12 h-12"
-                  alt="Kisan Saathi Logo"></img>
+                  alt="KISAN MITRA Logo"></img>
               </div>
-              <span className="text-xl font-semibold">Kisan Saathi</span>
+              <span className="text-xl font-semibold">KISAN MITRA</span>
             </div>
 
             <div className="text-center md:text-right">
               <p className="text-gray-300 text-base mb-2">
-                © 2025 Kisan Saathi. All rights reserved.
+                © 2025 KISAN MITRA. All rights reserved.
               </p>
               <p className="text-gray-400 text-sm">
                 Powered by AI-Powered Digital Partner for Every Farmer
