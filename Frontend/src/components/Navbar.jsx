@@ -30,10 +30,10 @@ const Navbar = () => {
                 <img
                   src={logo}
                   className=" w-20 h-20"
-                  alt="KISAN MITRA Logo"></img>
+                  alt="Kishan Sathi Logo"></img>
               </div>
               <span className="text-2xl font-bold text-gray-800">
-                KISAN MITRA
+                Kishan Sathi
               </span>
             </Link>
           </div>
